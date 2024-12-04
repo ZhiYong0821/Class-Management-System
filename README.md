@@ -11,7 +11,6 @@ This project implements a Command-Line Student Records Management System in C. I
 	5.	Update Record: Modify existing student details.
 	6.	Delete Record: Remove a student record by ID.
 	7.	Save Database: Save all changes back to the file.
-	8.	Declaration Compliance: Ensures the team complies with plagiarism and privacy policies.
 
 # Tech Stack
 
